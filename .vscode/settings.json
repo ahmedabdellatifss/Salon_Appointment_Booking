@@ -1,0 +1,21 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.debug.settings.onBuildFailureProceed": true,
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "sql_database_salon_service",
+            "group": "salon_service_db",
+            "database": "salondb_yt",
+            "username": "root"
+        }
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
