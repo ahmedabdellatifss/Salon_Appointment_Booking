@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29d733a1-0db2-424b-a198-4f9ce60dd7c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/salon-service/src/main/java/com/roaa/salon/controller/SalonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/salon-service/src/main/java/com/roaa/salon/mapper/SalonMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/salon-service/src/main/java/com/roaa/salon/model/Salon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/salon-service/src/main/java/com/roaa/salon/payload/dto/SalonDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/salon-service/src/main/java/com/roaa/salon/payload/dto/UserDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/salon-service/src/main/java/com/roaa/salon/repository/SalonRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/salon-service/src/main/java/com/roaa/salon/service/impl/SalonServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offering-service/src/main/java/com/roaa/service_offering/model/ServiceOffering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/offering-service/src/main/java/com/roaa/service_offering/service/ServiceOfferingService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +98,7 @@
       <workItem from="1747213025697" duration="15000" />
       <workItem from="1747213163653" duration="912000" />
       <workItem from="1747868703946" duration="14000" />
+      <workItem from="1748243820625" duration="14000" />
     </task>
     <servers />
   </component>
